@@ -31,7 +31,7 @@ def generate(update: Update, context: CallbackContext):
 
 def main():
     # Telegram Bot Token (replace with your actual bot token)
-    bot_token = '8024773844:AAFP7ZXhwRdGA6Dpj5s42NZbvoQHY2KdxxE'
+    bot_token = '7686983806:AAHLRypfeFGr4zwy7WSNY2Rfzj_wufkmixQ'
 
     # Create Updater and pass it your bot's token.
     updater = Updater(bot_token)
@@ -50,5 +50,5 @@ def main():
     updater.idle()
 
 if __name__ == '__main__':
-    main()
+        (main)
     
